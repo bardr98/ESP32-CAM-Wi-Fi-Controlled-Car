@@ -3,15 +3,9 @@ The project involved utilizing the ESP32-CAM board with Arduino to create a remo
 
 # Required components:
 
-- ESP32-CAM motherboard with OV2640 camera
+<img width="593" alt="image" src="https://github.com/bardr98/esp32-cam-Car/assets/91567022/04d4cb88-7ab7-4492-8ff7-f0e39fe94661">
 
-- ESP32-CAM Expansion Board
-
-- Connect the wires
-
-- L298N Motor Driver Module
-
-- 18650 battery box
+<img width="677" alt="image" src="https://github.com/bardr98/esp32-cam-Car/assets/91567022/6025dacb-204f-4efb-a8df-5785a2f26929">
 
 <img width="643" alt="image" src="https://github.com/bardr98/esp32-cam-Car/assets/91567022/83ae8609-dd7c-4b34-8d72-ec594a0bc87f">
 
